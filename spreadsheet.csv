@@ -1,5 +1,6 @@
+Keypoints detector;;Keypoints descriptors;;;;;;;;;;;
 SHITOMASI;;BRISK;;BRIEF;;ORB;;FREAK;;AKAZE;;SIFT;
-n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms 
+number of keypoints;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms
 125;42,0977;;1,77734;;1,08766;;2,75695;;68,7236;;;;39,5051
 118;26,3241;95;2,60485;115;4,64839;106;2,24665;86;61,3137;;;112;29,1837
 123;27,8315;88;2,69764;111;2,29353;102;1,59663;90;62,6413;;;109;29,4552
@@ -11,7 +12,7 @@ n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Mat
 111;19,5002;86;2,53776;109;1,95042;104;1,13548;86;68,2951;;;106;25,7202
 112;23,609;82;2,52265;100;2,3066;97;1,14387;85;73,819;;;97;25,0834
 HARRIS;;BRISK;;BRIEF;;ORB;;FREAK;;AKAZE;;SIFT;
-n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms 
+number of keypoints;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms
 17;28,3792;;0,589355;;0,57529;;1,51924;;66,6871;;;;42,8876
 14;32,6843;12;1,40593;14;1,9465;12;1,539;13;58,1469;;;14;36,3153
 18;32,7942;10;2,20982;11;2,10985;12;1,51008;13;63,8683;;;11;43,8718
@@ -23,7 +24,7 @@ n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Mat
 26;31,6786;23;1,65624;24;2,13831;24;8,90322;21;68,306;;;24;32,893
 34;42,9805;21;1,91658;23;1,98245;22;1,30481;18;76,43;;;22;36,7874
 FAST;;BRISK;;BRIEF;;ORB;;FREAK;;AKAZE;;SIFT;
-n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms 
+number of keypoints;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms
 149;0,963288;;2,62316;;3,52863;;1,28917;;50,2112;;;;33,0099
 152;1,31781;97;3,0567;119;2,27418;118;1,21263;98;60,9365;;;118;34,5987
 150;1,03218;104;2,53411;130;1,93951;123;0,902526;99;59,1742;;;123;46,0045
@@ -35,7 +36,7 @@ n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Mat
 138;1,03429;100;2,90582;125;1,24212;123;1,38529;101;56,1742;;;117;29,8301
 143;2,09801;100;2,09884;119;1,24741;119;1,34782;105;48,8024;;;103;36,8
 BRISK;;BRISK;;BRIEF;;ORB;;FREAK;;AKAZE;;SIFT;
-n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms 
+number of keypoints;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms
 264;42,8021;;3,67;;2,813;;7,895;;53,05;;;;73,3431
 282;41,6923;171;3,32;178;1,327;162;6,12;160;57,2177;;;182;67,2029
 282;42,447;176;3,46;205;1,156;175;6,09;177;58,2067;;;193;96,3124
@@ -47,7 +48,7 @@ n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Mat
 266;43,129;171;2,946;189;1,425;171;6,228;178;59,799;;;176;68,6779
 254;68,27;184;3,634;183;1,15035;172;4,9034;168;50,8094;;;183;68,5332
 ORB;;BRISK;;BRIEF;;ORB;;FREAK;;AKAZE;;SIFT;
-n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms 
+number of keypoints;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;desc ms ;Matched pts;time in ms
 92;9,58783;;2,112;;1,70952;;7,96255;;52,1071;;;;89,5034
 102;11,2402;73;1,3899;49;0,519415;67;6,77302;42;51,2726;;;67;76,2952
 106;9,111;74;1,35021;43;0,954962;70;6,40856;36;64,3322;;;79;108,16
@@ -59,7 +60,7 @@ n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Mat
 127;10,737;88;1,70353;84;1,57644;93;13,1852;48;58,7772;;;94;107,171
 128;15,118;91;1,6838;66;1,45874;93;5,05721;56;72,0677;;;94;131,061
 AKAZE;;BRISK;;BRIEF;;ORB;;FREAK;;AKAZE;;SIFT;
-n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms 
+number of keypoints;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms
 166;242,478;;3,28752;;2,8924;;7,33239;;65,3399;;117,401;;40,4904
 157;240,643;137;3,70142;141;3,31623;131;6,19312;126;65,7274;138;112,567;134;52,4264
 161;160,442;125;2,42771;134;1,51899;129;7,30775;129;85,4556;138;133,004;134;49,2921
@@ -71,7 +72,7 @@ n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Mat
 177;131,699;146;4,12247;148;1,53847;135;11,6327;147;97,1499;151;166,557;154;73,3589
 179;146,118;144;3,40917;152;1,80686;145;6,95304;138;75,7142;150;184,941;151;58,9479
 SIFT;;BRISK;;BRIEF;;ORB;;FREAK;;AKAZE;;SIFT;
-n KP;detec ms;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms ;Matched pts;desc ms 
+number of keypoints;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms;Matched pts;time in ms
 138;204,123;;1,85413;;0,970927;;;;58,3618;;;;139,2
 132;197,817;64;1,77102;86;1,04496;;;65;60,4942;;;82;112,105
 124;170,42;66;3,32289;78;1,29686;;;72;63,5353;;;81;147,469
